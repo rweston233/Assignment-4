@@ -5,13 +5,13 @@
 ### Part I
 > Alumni Website:
 
-- Create a database schema for an alumni website. Create a schema and database using the following list of web pages:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - Home – landing page, major highlights, courses, success stories, statistics and numbers  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - Join – registration by email address (ensure not campus email address as may expire), requires acceptance  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - Login/Update – member contact/information update  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - Events – CIT-related events (past, upcoming)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - Blog – monthly article by staff or alumni members  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - Contact  
+- Create a database schema for an alumni website. Create a schema and database using the following list of web pages:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **- Home** – landing page, major highlights, courses, success stories, statistics and numbers  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **- Join** – registration by email address (ensure not campus email address as may expire), requires acceptance  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **- Login/Update** – member contact/information update  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **- Events** – CIT-related events (past, upcoming)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **- Blog** – monthly article by staff or alumni members  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **- Contact**  
 
 
 - Create a list of objects (entities) that would be required to deliver the functionality from the list of web pages. From this list of entities, create a list of tables that corresponds with these entities. Use MySQL Workbench to create a model with all of these entities. For each table, add an appropriate primary key (surrogate or natural).
@@ -35,7 +35,7 @@
 - Save the queries in a file called `cit381-assign04-alumni-queries.sql`.
 
 #### Deliverables
-[assign03.zip](https://github.com/rweston233/Assingment-3/blob/main/assign03.zip)
+[assign04.zip](https://github.com/rweston233/Assignment-4/blob/main/assign04.zip)
 
 >> Back to home page:
 [Home](https://rweston233.github.io/)
