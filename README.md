@@ -36,6 +36,3 @@
 
 #### Deliverables
 [assign04.zip](https://github.com/rweston233/Assignment-4/blob/main/assign04.zip)
-
->> Back to home page:
-[Home](https://rweston233.github.io/)
